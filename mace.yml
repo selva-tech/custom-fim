@@ -1,7 +1,10 @@
 hosts:
   - instance1
   - instance2
-  
+jira: 
+   config:
+      project:
+         
 monitor-type: linux
 
 custom-monitor:
