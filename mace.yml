@@ -1,0 +1,8 @@
+hosts:
+  - instance1
+  - instance2
+  
+monitor-type: linux
+
+custom-monitor:
+   - /home/app/secrets/
