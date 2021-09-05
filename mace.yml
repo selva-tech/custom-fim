@@ -8,5 +8,5 @@ jira:
 custom-monitor:
    - /home/app/secrets/
    
-monitor-type: linux 
+monitor-type: linux #https://github.com/selva-tech/custom-fim/tree/main
 
