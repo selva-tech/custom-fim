@@ -5,7 +5,8 @@ jira:
    config:
       project:
          
-monitor-type: linux
-
 custom-monitor:
    - /home/app/secrets/
+   
+monitor-type: linux 
+
